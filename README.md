@@ -54,10 +54,17 @@ Framework Python para crear aplicaciones web con código mínimo.
 - Prototipos rápidos
 - MVP y demos
 - Scripts interactivos
+- Data scientists y ML engineers
 
-**Stack**: Python + Streamlit
+**Stack**: Python + Streamlit + Session State
 
-**👉 [Comenzar con Streamlit](./Streamlit/)** *(próximamente)*
+**Incluye**:
+- ✅ 6 lecciones progresivas (de básico a avanzado)
+- ✅ 15+ aplicaciones de ejemplo documentadas
+- ✅ Proyecto final en 4 pasos (chat con IA)
+- ✅ Guías completas con conceptos y ejercicios
+
+**👉 [Comenzar con Streamlit](./Streamlit/README.md)**
 
 ---
 
@@ -123,7 +130,7 @@ Selecciona el módulo que quieras explorar y sigue su documentación específica
 
 - **[Módulo Dash](./Dash/README.md)** - Python Full Stack ✅
 - **[Módulo Cursor](./Cursor/README.md)** - AI-Assisted Development ✅
-- **Módulo Streamlit** - Próximamente 🔜
+- **[Módulo Streamlit](./Streamlit/README.md)** - Completo y listo para usar ✅
 - **Módulo Lovable** - Próximamente 🔜
 
 ---
@@ -195,7 +202,12 @@ Todos los módulos construyen variaciones de la misma aplicación: **SegurosVida
 ### Para Desarrolladores Experimentados
 - Salta directo al módulo que te interese
 - Compara diferentes implementaciones (Dash vs Cursor)
-- Personaliza y extiende las aplicaciones
+2. **Empezar con Streamlit** (más simple y rápido para prototipos)
+   - Curso estructurado desde cero con 6 lecciones
+   - Aprende paso a paso hasta el proyecto final
+3. **Explorar Dash** (más robusto para aplicaciones completas)
+4. Experimentar con Cursor AI
+5. Probar Lovable para no-code
 
 ---
 
@@ -230,7 +242,7 @@ Este proyecto es de código abierto y está disponible para uso educativo.
 | Backend API | ✅ Completo | ✅ Completa | ✅ Funcional |
 | Dash (Python) | ✅ Completo | ✅ Completa | ✅ Funcional |
 | Cursor (Next.js) | ✅ Completo | ✅ Completa | ✅ Funcional |
-| Streamlit | 🔜 Próximamente | ⏳ En progreso | ⏳ En progreso |
+| Streamlit | ✅ Completo | ✅ Completa | ✅ Funcional |
 | Lovable | 🔜 Próximamente | ⏳ Planeado | ⏳ Planeado |
 
 ---
@@ -241,8 +253,9 @@ Este proyecto es de código abierto y está disponible para uso educativo.
 
 1. **Configura el backend**: Sigue las instrucciones en [`insurance_agent_api/README.md`](./insurance_agent_api/README.md)
 2. **Elige tu primer módulo**: 
-   - [`Dash/README.md`](./Dash/README.md) - Si prefieres Python
-   - [`Cursor/README.md`](./Cursor/README.md) - Si prefieres TypeScript/React
+   - 🚀 [`Cursor/README.md`](./Cursor/README.md) - Si prefieres TypeScript/React
+   - 🚀 [`Streamlit/README.md`](./Streamlit/README.md) - Para prototipos rápidos y aprender rápido
+   - 🚀 [`Dash/README.md`](./Dash/README.md) - Para aplicaciones más robustas
 3. **Construye tu aplicación**: Sigue la guía paso a paso
 4. **Experimenta y personaliza**: Haz tuyo el proyecto
 
