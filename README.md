@@ -62,16 +62,17 @@ Framework Python para crear aplicaciones web con código mínimo.
 ---
 
 #### 3️⃣ [`Cursor/`](./Cursor) - AI-Assisted Development
-Desarrollo asistido por IA usando Cursor IDE.
+Desarrollo asistido por IA usando Cursor IDE para construir apps modernas.
 
 **Ideal para**:
-- Acelerar el desarrollo
-- Aprender nuevas tecnologías
+- Acelerar el desarrollo 10x
+- Aprender nuevas tecnologías mientras construyes
 - Pair programming con IA
+- Desarrollo profesional moderno
 
-**Stack**: Cursor AI + tu framework favorito
+**Stack**: Cursor AI + Next.js 14 + TypeScript + Tailwind CSS
 
-**👉 [Comenzar con Cursor](./Cursor/)** *(próximamente)*
+**👉 [Comenzar con Cursor](./Cursor/README.md)**
 
 ---
 
@@ -120,9 +121,9 @@ El servidor estará disponible en `http://localhost:8000`
 
 Selecciona el módulo que quieras explorar y sigue su documentación específica:
 
-- **[Módulo Dash](./Dash/README.md)** - Completo y listo para usar ✅
+- **[Módulo Dash](./Dash/README.md)** - Python Full Stack ✅
+- **[Módulo Cursor](./Cursor/README.md)** - AI-Assisted Development ✅
 - **Módulo Streamlit** - Próximamente 🔜
-- **Módulo Cursor** - Próximamente 🔜
 - **Módulo Lovable** - Próximamente 🔜
 
 ---
@@ -138,10 +139,11 @@ Selecciona el módulo que quieras explorar y sigue su documentación específica
 
 ### Herramientas y Frameworks
 - 🐍 **Python**: Dash, Streamlit
-- 🤖 **IA**: LangGraph, Google Gemini
+- ⚛️ **JavaScript/TypeScript**: Next.js, React
+- 🤖 **IA**: LangGraph, Google Gemini, Cursor AI
 - 🌐 **APIs**: FastAPI, REST
-- 🎨 **UI**: Bootstrap, CSS personalizado
-- 🔧 **Dev Tools**: Cursor AI, Git
+- 🎨 **UI**: Bootstrap, Tailwind CSS, Shadcn/ui
+- 🔧 **Dev Tools**: Cursor AI, Docker, Git
 
 ---
 
@@ -178,16 +180,21 @@ Todos los módulos construyen variaciones de la misma aplicación: **SegurosVida
 
 ## 📖 Flujo Recomendado del Workshop
 
-### Para Principiantes
+### Para Principiantes (Python)
 1. **Configurar el backend** (`insurance_agent_api`)
 2. **Empezar con Dash** (más estructurado y guiado)
 3. Explorar Streamlit (más simple)
-4. Experimentar con Cursor AI
-5. Probar Lovable para no-code
+4. Probar Lovable para no-code
+
+### Para Desarrolladores Web
+1. **Configurar el backend** (`insurance_agent_api`)
+2. **Empezar con Cursor** (aprende AI-assisted development)
+3. Construir con Next.js y TypeScript
+4. Deploy con Docker
 
 ### Para Desarrolladores Experimentados
 - Salta directo al módulo que te interese
-- Compara diferentes implementaciones
+- Compara diferentes implementaciones (Dash vs Cursor)
 - Personaliza y extiende las aplicaciones
 
 ---
@@ -221,9 +228,9 @@ Este proyecto es de código abierto y está disponible para uso educativo.
 | Módulo | Estado | Documentación | Código |
 |--------|--------|---------------|--------|
 | Backend API | ✅ Completo | ✅ Completa | ✅ Funcional |
-| Dash | ✅ Completo | ✅ Completa | ✅ Funcional |
+| Dash (Python) | ✅ Completo | ✅ Completa | ✅ Funcional |
+| Cursor (Next.js) | ✅ Completo | ✅ Completa | ✅ Funcional |
 | Streamlit | 🔜 Próximamente | ⏳ En progreso | ⏳ En progreso |
-| Cursor | 🔜 Próximamente | ⏳ Planeado | ⏳ Planeado |
 | Lovable | 🔜 Próximamente | ⏳ Planeado | ⏳ Planeado |
 
 ---
@@ -233,7 +240,9 @@ Este proyecto es de código abierto y está disponible para uso educativo.
 ¿Listo para comenzar?
 
 1. **Configura el backend**: Sigue las instrucciones en [`insurance_agent_api/README.md`](./insurance_agent_api/README.md)
-2. **Elige tu primer módulo**: Recomendamos empezar con [`Dash/README.md`](./Dash/README.md)
+2. **Elige tu primer módulo**: 
+   - [`Dash/README.md`](./Dash/README.md) - Si prefieres Python
+   - [`Cursor/README.md`](./Cursor/README.md) - Si prefieres TypeScript/React
 3. **Construye tu aplicación**: Sigue la guía paso a paso
 4. **Experimenta y personaliza**: Haz tuyo el proyecto
 
