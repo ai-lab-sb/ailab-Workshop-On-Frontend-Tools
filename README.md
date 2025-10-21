@@ -54,7 +54,6 @@ Framework Python para crear aplicaciones web con código mínimo.
 - Prototipos rápidos
 - MVP y demos
 - Scripts interactivos
-- Data scientists y ML engineers
 
 **Stack**: Python + Streamlit + Session State
 
@@ -226,20 +225,6 @@ Este es un proyecto educativo. Si encuentras errores o tienes sugerencias:
 
 ---
 
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible para uso educativo.
-
----
-
-## 📞 Soporte
-
-- 📧 **Email**: Contacta al instructor del workshop
-- 💬 **Issues**: Usa el sistema de issues de GitHub
-- 📚 **Documentación**: Cada módulo tiene su README detallado
-
----
-
 ## ⭐ Estado del Proyecto
 
 | Módulo | Estado | Documentación | Código |
@@ -261,16 +246,10 @@ Este proyecto es de código abierto y está disponible para uso educativo.
    - 🚀 [`Cursor/README.md`](./Cursor/README.md) - Si prefieres TypeScript/React
    - 🚀 [`Streamlit/README.md`](./Streamlit/README.md) - Para prototipos rápidos y aprender rápido
    - 🚀 [`Dash/README.md`](./Dash/README.md) - Para aplicaciones más robustas
+   - 🚀 [`Lovable/README.md`](./Lovable/README.md) - Para aplicaciones más robustas
 3. **Construye tu aplicación**: Sigue la guía paso a paso
 4. **Experimenta y personaliza**: Haz tuyo el proyecto
 
 ---
 
-<div align="center">
-
-**¡Feliz aprendizaje! 🎓✨**
-
-*Construido con ❤️ para la comunidad de desarrolladores*
-
-</div>
 
