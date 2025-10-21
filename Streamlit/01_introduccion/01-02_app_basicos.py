@@ -42,7 +42,7 @@ st.write("- Diccionarios:", {"nombre": "Juan", "edad": 30})
 st.write("---")
 st.header("📄 Markdown")
 
-st.markdown("""
+st.markdown(r"""
 ### Puedes usar Markdown completo
 
 Markdown te permite formatear texto fácilmente:
