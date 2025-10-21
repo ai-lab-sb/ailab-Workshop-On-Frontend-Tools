@@ -84,16 +84,23 @@ Desarrollo asistido por IA usando Cursor IDE para construir apps modernas.
 ---
 
 #### 4️⃣ [`Lovable/`](./Lovable) - No-Code AI Builder
-Constructor visual de aplicaciones con IA.
+Construye aplicaciones web conversando con IA, sin escribir código.
 
 **Ideal para**:
-- Prototipos sin código
+- Prototipos ultra rápidos
 - Diseñadores y product managers
-- Iteración rápida de UI/UX
+- Validar ideas sin programar
+- MVPs en horas
 
-**Stack**: Lovable.dev Platform
+**Stack**: Lovable.dev → React + TypeScript + Shadcn/ui (generado automáticamente)
 
-**👉 [Comenzar con Lovable](./Lovable/)** *(próximamente)*
+**Incluye**:
+- ✅ 5 guías progresivas (basics a deployment)
+- ✅ 5 prompts listos para construcción paso a paso
+- ✅ Integración con GitHub y code export
+- ✅ Deploy instantáneo
+
+**👉 [Comenzar con Lovable](./Lovable/README.md)**
 
 ---
 
@@ -129,9 +136,9 @@ El servidor estará disponible en `http://localhost:8000`
 Selecciona el módulo que quieras explorar y sigue su documentación específica:
 
 - **[Módulo Dash](./Dash/README.md)** - Python Full Stack ✅
+- **[Módulo Streamlit](./Streamlit/README.md)** - Rapid Prototyping ✅
 - **[Módulo Cursor](./Cursor/README.md)** - AI-Assisted Development ✅
-- **[Módulo Streamlit](./Streamlit/README.md)** - Completo y listo para usar ✅
-- **Módulo Lovable** - Próximamente 🔜
+- **[Módulo Lovable](./Lovable/README.md)** - No-Code AI Builder ✅
 
 ---
 
@@ -189,25 +196,23 @@ Todos los módulos construyen variaciones de la misma aplicación: **SegurosVida
 
 ### Para Principiantes (Python)
 1. **Configurar el backend** (`insurance_agent_api`)
-2. **Empezar con Dash** (más estructurado y guiado)
-3. Explorar Streamlit (más simple)
-4. Probar Lovable para no-code
+2. **Empezar con Streamlit** (más simple y rápido para prototipos)
+   - Curso estructurado desde cero con 6 lecciones
+   - Aprende paso a paso hasta el proyecto final
+3. **Explorar Dash** (más robusto para aplicaciones completas)
+4. **Probar Lovable** (construcción sin código)
 
 ### Para Desarrolladores Web
 1. **Configurar el backend** (`insurance_agent_api`)
 2. **Empezar con Cursor** (aprende AI-assisted development)
 3. Construir con Next.js y TypeScript
 4. Deploy con Docker
+5. **Probar Lovable** para comparar no-code vs code
 
 ### Para Desarrolladores Experimentados
 - Salta directo al módulo que te interese
-- Compara diferentes implementaciones (Dash vs Cursor)
-2. **Empezar con Streamlit** (más simple y rápido para prototipos)
-   - Curso estructurado desde cero con 6 lecciones
-   - Aprende paso a paso hasta el proyecto final
-3. **Explorar Dash** (más robusto para aplicaciones completas)
-4. Experimentar con Cursor AI
-5. Probar Lovable para no-code
+- Compara diferentes implementaciones (Streamlit vs Dash vs Cursor vs Lovable)
+- Experimenta con el flujo completo: prompt → code → deploy
 
 ---
 
@@ -241,9 +246,9 @@ Este proyecto es de código abierto y está disponible para uso educativo.
 |--------|--------|---------------|--------|
 | Backend API | ✅ Completo | ✅ Completa | ✅ Funcional |
 | Dash (Python) | ✅ Completo | ✅ Completa | ✅ Funcional |
+| Streamlit (Python) | ✅ Completo | ✅ Completa | ✅ Funcional |
 | Cursor (Next.js) | ✅ Completo | ✅ Completa | ✅ Funcional |
-| Streamlit | ✅ Completo | ✅ Completa | ✅ Funcional |
-| Lovable | 🔜 Próximamente | ⏳ Planeado | ⏳ Planeado |
+| Lovable (No-Code) | ✅ Completo | ✅ Completa | ✅ Funcional |
 
 ---
 
