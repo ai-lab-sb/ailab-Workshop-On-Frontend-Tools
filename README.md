@@ -54,10 +54,17 @@ Framework Python para crear aplicaciones web con código mínimo.
 - Prototipos rápidos
 - MVP y demos
 - Scripts interactivos
+- Data scientists y ML engineers
 
-**Stack**: Python + Streamlit
+**Stack**: Python + Streamlit + Session State
 
-**👉 [Comenzar con Streamlit](./Streamlit/)** *(próximamente)*
+**Incluye**:
+- ✅ 6 lecciones progresivas (de básico a avanzado)
+- ✅ 15+ aplicaciones de ejemplo documentadas
+- ✅ Proyecto final en 4 pasos (chat con IA)
+- ✅ Guías completas con conceptos y ejercicios
+
+**👉 [Comenzar con Streamlit](./Streamlit/README.md)**
 
 ---
 
@@ -121,7 +128,7 @@ El servidor estará disponible en `http://localhost:8000`
 Selecciona el módulo que quieras explorar y sigue su documentación específica:
 
 - **[Módulo Dash](./Dash/README.md)** - Completo y listo para usar ✅
-- **Módulo Streamlit** - Próximamente 🔜
+- **[Módulo Streamlit](./Streamlit/README.md)** - Completo y listo para usar ✅
 - **Módulo Cursor** - Próximamente 🔜
 - **Módulo Lovable** - Próximamente 🔜
 
@@ -180,13 +187,17 @@ Todos los módulos construyen variaciones de la misma aplicación: **SegurosVida
 
 ### Para Principiantes
 1. **Configurar el backend** (`insurance_agent_api`)
-2. **Empezar con Dash** (más estructurado y guiado)
-3. Explorar Streamlit (más simple)
+2. **Empezar con Streamlit** (más simple y rápido para prototipos)
+   - Curso estructurado desde cero con 6 lecciones
+   - Aprende paso a paso hasta el proyecto final
+3. **Explorar Dash** (más robusto para aplicaciones completas)
 4. Experimentar con Cursor AI
 5. Probar Lovable para no-code
 
 ### Para Desarrolladores Experimentados
 - Salta directo al módulo que te interese
+- **Streamlit**: Ideal para MVPs y prototipos rápidos
+- **Dash**: Mejor para aplicaciones enterprise y dashboards
 - Compara diferentes implementaciones
 - Personaliza y extiende las aplicaciones
 
@@ -222,7 +233,7 @@ Este proyecto es de código abierto y está disponible para uso educativo.
 |--------|--------|---------------|--------|
 | Backend API | ✅ Completo | ✅ Completa | ✅ Funcional |
 | Dash | ✅ Completo | ✅ Completa | ✅ Funcional |
-| Streamlit | 🔜 Próximamente | ⏳ En progreso | ⏳ En progreso |
+| Streamlit | ✅ Completo | ✅ Completa | ✅ Funcional |
 | Cursor | 🔜 Próximamente | ⏳ Planeado | ⏳ Planeado |
 | Lovable | 🔜 Próximamente | ⏳ Planeado | ⏳ Planeado |
 
@@ -233,7 +244,9 @@ Este proyecto es de código abierto y está disponible para uso educativo.
 ¿Listo para comenzar?
 
 1. **Configura el backend**: Sigue las instrucciones en [`insurance_agent_api/README.md`](./insurance_agent_api/README.md)
-2. **Elige tu primer módulo**: Recomendamos empezar con [`Dash/README.md`](./Dash/README.md)
+2. **Elige tu primer módulo**: 
+   - 🚀 [`Streamlit/README.md`](./Streamlit/README.md) - Para prototipos rápidos y aprender rápido
+   - 📊 [`Dash/README.md`](./Dash/README.md) - Para aplicaciones más robustas
 3. **Construye tu aplicación**: Sigue la guía paso a paso
 4. **Experimenta y personaliza**: Haz tuyo el proyecto
 
