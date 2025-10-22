@@ -456,11 +456,6 @@ Antes de continuar al siguiente módulo, verifica:
 
 ## 📚 Recursos Adicionales
 
-### Videos Recomendados
-- [Cursor in 100 seconds](https://www.youtube.com/watch?v=xxx)
-- [10 Cursor tips that changed my life](https://www.youtube.com/watch?v=xxx)
-- [Building an app in 30 minutes with Cursor](https://www.youtube.com/watch?v=xxx)
-
 ### Documentación Oficial
 - [Cursor Docs](https://docs.cursor.com/)
 - [Keyboard Shortcuts](https://docs.cursor.com/get-started/shortcuts)

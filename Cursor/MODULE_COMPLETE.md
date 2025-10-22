@@ -40,12 +40,6 @@ A complete Next.js 14 application with:
 3. Use prompts from `prompts/` folder
 4. Build your own version!
 
-### For Instructors:
-- All documentation is complete and ready to teach
-- Reference app can be used as solution
-- Prompts are tested and production-ready
-- Docker setup works out of the box
-
 ## 📦 Running the Reference App
 
 ```bash
