@@ -375,7 +375,5 @@ Al completar este módulo tendrás:
 
 **¡Bienvenido al futuro del desarrollo de software! 🚀✨**
 
-*Construido con Cursor AI y ❤️*
-
 </div>
 
